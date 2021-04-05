@@ -1,15 +1,15 @@
 {
-  "5057766326": "Testing",
-  "286090429": "Arsenal",
-  "3956818381": "NinjaLegends",
-  "5977280685": "NinjaLegends2",
-  "2396900884": "NoobSimulator",
-  "5414779423": "ScienceSimulator",
-  "5857383913": "BuildingArchitect",
-  "5293755937": "SpeedRunSimulator",
-  "2512643572": "BubbleGumSimulator",
-  "6094061470": "ArcadeEmpire",
-  "6331132338": "PetSwarmSimulator",
-  "2677609345": "SoundSpace",
-  "5736409216": "MallTycoon"
+  "5057766326": { "Script": "Testing" },
+  "286090429": { "Script": "Arsenal" },
+  "3956818381": { "Script": "NinjaLegends" },
+  "5977280685": { "Script": "NinjaLegends2" },
+  "2396900884": { "Script": "NoobSimulator" },
+  "5414779423": { "Script": "ScienceSimulator" },
+  "5857383913": { "Script": "BuildingArchitect" },
+  "5293755937": { "Script": "SpeedRunSimulator" },
+  "2512643572": { "Script": "BubbleGumSimulator" },
+  "6094061470": { "Script": "ArcadeEmpire" },
+  "6331132338": { "Script": "PetSwarmSimulator" },
+  "2677609345": { "Script": "SoundSpace" },
+  "5736409216": { "Script": "MallTycoon" }
 }
